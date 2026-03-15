@@ -21,7 +21,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 
-// Panel técnico de la práctica: muestra los 3 contadores y el historial de lifecycle
 @Composable
 fun TechnicalPanel(
     viewModel: LifecycleViewModel,

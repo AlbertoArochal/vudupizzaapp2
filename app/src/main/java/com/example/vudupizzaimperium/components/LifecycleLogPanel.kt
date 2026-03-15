@@ -21,7 +21,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 
-// Panel que muestra el historial de eventos del ciclo de vida y un botón para limpiarlo
 @Composable
 fun LifecycleLogPanel(viewModel: LifecycleViewModel, modifier: Modifier = Modifier) {
     Card(
