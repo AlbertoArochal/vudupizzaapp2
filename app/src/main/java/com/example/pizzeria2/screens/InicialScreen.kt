@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium.screens
+package com.example.pizzeria2.screens
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

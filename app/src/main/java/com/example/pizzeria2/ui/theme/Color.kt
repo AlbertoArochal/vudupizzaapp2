@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium.ui.theme
+package com.example.pizzeria2.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

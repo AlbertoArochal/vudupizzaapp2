@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium
+package com.example.pizzeria2
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium
+package com.example.pizzeria2
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -23,10 +23,10 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
-import com.example.vudupizzaimperium.screens.ComandaScreen
-import com.example.vudupizzaimperium.screens.InicialScreen
-import com.example.vudupizzaimperium.screens.ResumScreen
-import com.example.vudupizzaimperium.ui.theme.VuduPizzaImperiumTheme
+import com.example.pizzeria2.screens.ComandaScreen
+import com.example.pizzeria2.screens.InicialScreen
+import com.example.pizzeria2.screens.ResumScreen
+import com.example.pizzeria2.ui.theme.PizzeriaPanucciTheme
 
 object Rutes {
     const val INICI = "inici"
@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-            VuduPizzaImperiumTheme {
+            PizzeriaPanucciTheme {
                 PizzaApp(viewModel = pizzaViewModel)
             }
         }

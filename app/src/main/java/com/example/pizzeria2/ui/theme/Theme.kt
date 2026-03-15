@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium.ui.theme
+package com.example.pizzeria2.ui.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
@@ -36,7 +36,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun VuduPizzaImperiumTheme(
+fun PizzeriaPanucciTheme(
     darkTheme: Boolean = false,
     content: @Composable () -> Unit
 ) {

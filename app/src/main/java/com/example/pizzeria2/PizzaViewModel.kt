@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium
+package com.example.pizzeria2
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf

@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium.screens
+package com.example.pizzeria2.screens
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.BorderStroke
@@ -22,7 +22,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.vudupizzaimperium.PizzaViewModel
+import com.example.pizzeria2.PizzaViewModel
 
 @Composable
 fun ResumScreen(

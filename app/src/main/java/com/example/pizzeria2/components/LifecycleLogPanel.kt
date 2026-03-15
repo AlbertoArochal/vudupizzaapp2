@@ -1,6 +1,6 @@
-package com.example.vudupizzaimperium.components
+package com.example.pizzeria2.components
 
-import com.example.vudupizzaimperium.LifecycleViewModel
+import com.example.pizzeria2.LifecycleViewModel
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.Arrangement

@@ -1,6 +1,6 @@
-package com.example.vudupizzaimperium.components
+package com.example.pizzeria2.components
 
-import com.example.vudupizzaimperium.PizzaStep
+import com.example.pizzeria2.PizzaStep
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.Arrangement

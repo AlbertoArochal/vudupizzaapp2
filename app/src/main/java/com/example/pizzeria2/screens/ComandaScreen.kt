@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium.screens
+package com.example.pizzeria2.screens
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.clickable
@@ -29,7 +29,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.vudupizzaimperium.PizzaViewModel
+import com.example.pizzeria2.PizzaViewModel
 
 @Composable
 fun ComandaScreen(

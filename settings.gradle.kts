@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Vudu Pizza Imperium"
+rootProject.name = "Pizzeria Panucci (pizzeria2)"
 include(":app")
  

@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium
+package com.example.pizzeria2
 
 enum class PizzaStep {
     NOM,

@@ -1,4 +1,4 @@
-package com.example.vudupizzaimperium
+package com.example.pizzeria2
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.ViewModel
